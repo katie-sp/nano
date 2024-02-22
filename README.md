@@ -1,2 +1,1 @@
-# nano
-Computational portion of my Bathe/Irvine lab UROP
+## Computational portion of my Bathe/Irvine lab UROP
